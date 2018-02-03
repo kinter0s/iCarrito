@@ -42,7 +42,7 @@ gem 'jquery-rails'
 # gem 'capistrano-rails', group: :development
 
 #jorge
-#datatable para reportes
+#datatable  para reportes
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'jquery-datatables-rails', '~> 3.4.0'
 

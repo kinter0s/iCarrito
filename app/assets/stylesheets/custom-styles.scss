@@ -1,0 +1,28 @@
+/*jorge*/
+
+body{
+	text-align: left;
+}
+
+
+.page a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+    background-color: inherit;
+}
+
+.page a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+header.navbar{
+	margin-bottom: 0;
+}
+form label{
+	font-weight: normal;
+}
+
+.dataTables_wrapper .row{
+	margin-top: 10px;
+}
